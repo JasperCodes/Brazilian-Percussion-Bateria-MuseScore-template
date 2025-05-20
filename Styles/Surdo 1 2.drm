@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.50">
+  <Drum pitch="37">
+    <head>normal</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Surdo Primeira</name>
+    <stem>1</stem>
+    <shortcut>A</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>0</panelColumn>
+    </Drum>
+  <Drum pitch="49">
+    <head>normal</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Surdo Segunda</name>
+    <stem>2</stem>
+    <shortcut>B</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>1</panelColumn>
+    </Drum>
+  </museScore>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.50">
+  <Drum pitch="60">
+    <head>normal</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Snare hit (right hand)</name>
+    <stem>2</stem>
+    <shortcut>A</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>0</panelColumn>
+    </Drum>
+  <Drum pitch="61">
+    <head>cross</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Snare rim shot (right hand)</name>
+    <stem>2</stem>
+    <shortcut>B</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>1</panelColumn>
+    </Drum>
+  <Drum pitch="62">
+    <head>normal</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Snare hit (left hand)</name>
+    <stem>1</stem>
+    <shortcut>C</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>2</panelColumn>
+    </Drum>
+  <Drum pitch="63">
+    <head>cross</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Snare rim shot (left hand)</name>
+    <stem>1</stem>
+    <shortcut>D</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>3</panelColumn>
+    </Drum>
+  </museScore>
