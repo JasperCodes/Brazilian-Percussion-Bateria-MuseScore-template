@@ -1,15 +1,17 @@
 # Brazilian Percussion Bateria MuseScore template
 
-This repository contains a fully useable template for creating, listening and sharing Brazilian percussion arrangement for a variety of styles (Rio, Bahia). 
+This repository contains a fully useable template for creating, listening and sharing Brazilian percussion arrangement for a variety of styles (Rio, Bahia) in [MuseScore 4](https://musescore.org/en). 
 
-- Most common samba instruments are available
-- All instruments have *full* sound support, this means that you can listen to your arrangement live as you make them.
+- Fully useable template, start creating arrangements immediately after installing
+- Most common samba instruments readily available with full audio support; listen to your arrangement as you create it!
 
 Most instruments use a custom SoundFont, which I've carefully composed for this project using various sample sources. Some instruments use the default sounds available in MuseScore4.
 
+> This template requires MuseScore version 4.5 or higher
+
 ## How to use
 
-1. Download this repository
+1. Go to [releases](https://github.com/JasperCodes/Brazilian-Percussion-Bateria-MuseScore-template/releases) and download the latest version.
 1. Copy the contents of the folders `Soundfonts`, `Styles` en `Templates` to your corresponding local MuseScore folders. These folders can be usually be found in your user Documents folder, e.g. `/Documents/MuseScore4` or `/Documents/MuseScore/MuseScore4`
     > If you cannot find your local MuseScore user folder, open MuseScore's preferences menu via `Edit` --> `Preferences` and navigate to the `Folders` tab:
         ![alt text](image-1.png)
