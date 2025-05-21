@@ -4,38 +4,38 @@
     <head>normal</head>
     <line>-1</line>
     <voice>0</voice>
-    <name>Surdo 3 hit</name>
+    <name>Repique Mor mid open</name>
     <stem>2</stem>
     <shortcut>A</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>0</panelColumn>
     </Drum>
   <Drum pitch="61">
-    <head>circled</head>
+    <head>triangle-down</head>
     <line>-1</line>
     <voice>0</voice>
-    <name>Surdo 3 soft hit</name>
+    <name>Repique Mor open</name>
     <stem>2</stem>
     <shortcut>B</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>1</panelColumn>
     </Drum>
   <Drum pitch="62">
-    <head>diamond</head>
-    <line>1</line>
+    <head>cross</head>
+    <line>-1</line>
     <voice>0</voice>
-    <name>Surdo 3 left hand</name>
-    <stem>1</stem>
+    <name>Repique Mor rim shot</name>
+    <stem>2</stem>
     <shortcut>C</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>2</panelColumn>
     </Drum>
   <Drum pitch="63">
-    <head>xcircle</head>
-    <line>-1</line>
+    <head>normal</head>
+    <line>1</line>
     <voice>0</voice>
-    <name>Surdo 3 muffled</name>
-    <stem>2</stem>
+    <name>Repique Mor hand open</name>
+    <stem>1</stem>
     <shortcut>D</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>3</panelColumn>
@@ -44,7 +44,7 @@
     <head>cross</head>
     <line>1</line>
     <voice>0</voice>
-    <name>Surdo 3 click (left hand)</name>
+    <name>Repique Mor hand slap</name>
     <stem>1</stem>
     <shortcut>E</shortcut>
     <panelRow>0</panelRow>
