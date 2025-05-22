@@ -1,11 +1,13 @@
 # Brazilian Percussion Bateria MuseScore template
 
-This repository contains a fully useable template for creating, listening and sharing Brazilian percussion arrangement for a variety of styles (Rio, Bahia) in [MuseScore 4](https://musescore.org/en). 
+This repository contains a fully useable template for creating, listening and sharing Brazilian percussion arrangement for a variety of styles (Rio, Bahia) in [MuseScore](https://musescore.org/en). 
 
 - Fully useable template, start creating arrangements immediately after installing
 - Most common samba instruments readily available with full audio support; listen to your arrangement as you create it!
 
 Most instruments use a custom SoundFont, which I've carefully composed for this project using various sample sources. Some instruments use the default sounds available in MuseScore4.
+
+[See (and hear) this template in action](https://musescore.com/user/95409631/scores/25375213)!
 
 > This template requires MuseScore version 4.5 or higher
 
@@ -28,11 +30,15 @@ Most instruments use a custom SoundFont, which I've carefully composed for this 
 
 ## Tips
 
+- All instrument notes can be input using the keyboard letters `a`, `b`, `c` and upwards.
+
 - For a rough approximation of samba swing, add a `Swing` palette with 16th note swing, around 54% works best for me, your mileage may vary:
     
     ![alt text](media/image-2.png)
 - You can [publish your arrangement to the MuseScore cloud](https://handbook.musescore.org/file-management/publish-to-musescorecom) and share it with your band members, they can even listen to the arrangement if you export it with audio!
 
-## To-do
+## Note legend
 
-- Add bloco style repinique instrument (with plastic sticks)
+Below a rough note legend of the different types of notes used and how to play them:
+
+![note legend](/media/note%20legend.png)
