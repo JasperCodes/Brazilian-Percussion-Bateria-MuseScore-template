@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.50">
+  <Drum pitch="60">
+    <head>normal</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Apito high</name>
+    <stem>2</stem>
+    <shortcut>B</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>0</panelColumn>
+    </Drum>
+  <Drum pitch="61">
+    <head>normal</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Apito low</name>
+    <stem>1</stem>
+    <shortcut>A</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>1</panelColumn>
+    </Drum>
+  </museScore>
