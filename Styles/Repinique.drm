@@ -34,7 +34,7 @@
     <head>normal</head>
     <line>1</line>
     <voice>0</voice>
-    <name>Repinique hand open</name>
+    <name>Repinique left hand open</name>
     <stem>1</stem>
     <shortcut>D</shortcut>
     <panelRow>0</panelRow>
@@ -44,10 +44,62 @@
     <head>cross</head>
     <line>1</line>
     <voice>0</voice>
-    <name>Repinique hand slap</name>
+    <name>Repinique left hand slap</name>
     <stem>1</stem>
     <shortcut>E</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>4</panelColumn>
+    </Drum>
+  <Drum pitch="65">
+    <head>diamond</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Repinique plastic beater hit (right hand)</name>
+    <stem>2</stem>
+    <shortcut>F</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>5</panelColumn>
+    </Drum>
+  <Drum pitch="66">
+    <head>diamond</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Repinique plastic beater hit (left hand)</name>
+    <stem>1</stem>
+    <shortcut>G</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>6</panelColumn>
+    </Drum>
+  <Drum pitch="67">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadDiamondWhite</whole>
+      <half>noteheadDiamondWhite</half>
+      <quarter>noteheadDiamondWhite</quarter>
+      <breve>noteheadDiamondWhite</breve>
+      </noteheads>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Repinique plastic beater ghost note (right hand)</name>
+    <stem>2</stem>
+    <shortcut>H</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>7</panelColumn>
+    </Drum>
+  <Drum pitch="68">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadDiamondWhite</whole>
+      <half>noteheadDiamondWhite</half>
+      <quarter>noteheadDiamondWhite</quarter>
+      <breve>noteheadDiamondWhite</breve>
+      </noteheads>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Repinique plastic beater ghost note (left hand)</name>
+    <stem>1</stem>
+    <shortcut>I</shortcut>
+    <panelRow>1</panelRow>
+    <panelColumn>0</panelColumn>
     </Drum>
   </museScore>
