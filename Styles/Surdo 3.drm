@@ -11,7 +11,7 @@
     <panelColumn>0</panelColumn>
     </Drum>
   <Drum pitch="61">
-    <head>xcircle</head>
+    <head>cross</head>
     <line>-1</line>
     <voice>0</voice>
     <name>Surdo 3 muffled</name>
@@ -24,7 +24,7 @@
     <head>diamond</head>
     <line>1</line>
     <voice>0</voice>
-    <name>Surdo 3 hand hit (left hand)</name>
+    <name>Surdo 3 hand open (left hand)</name>
     <stem>1</stem>
     <shortcut>C</shortcut>
     <panelRow>0</panelRow>
@@ -41,10 +41,10 @@
     <panelColumn>3</panelColumn>
     </Drum>
   <Drum pitch="64">
-    <head>cross</head>
+    <head>slash</head>
     <line>1</line>
     <voice>0</voice>
-    <name>Surdo 3 click (left hand)</name>
+    <name>Surdo 3 rim (left hand)</name>
     <stem>1</stem>
     <shortcut>E</shortcut>
     <panelRow>0</panelRow>

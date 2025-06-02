@@ -11,33 +11,23 @@
     <panelColumn>0</panelColumn>
     </Drum>
   <Drum pitch="61">
-    <head>circled</head>
+    <head>cross</head>
     <line>-1</line>
     <voice>0</voice>
-    <name>Surdo 2 hit soft</name>
+    <name>Surdo 2 hit muffled</name>
     <stem>2</stem>
     <shortcut>B</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>1</panelColumn>
     </Drum>
   <Drum pitch="62">
-    <head>xcircle</head>
-    <line>-1</line>
+    <head>slash</head>
+    <line>1</line>
     <voice>0</voice>
-    <name>Surdo 2 hit muffled</name>
-    <stem>2</stem>
+    <name>Surdo 2 rim click</name>
+    <stem>1</stem>
     <shortcut>C</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>2</panelColumn>
-    </Drum>
-  <Drum pitch="63">
-    <head>cross</head>
-    <line>1</line>
-    <voice>0</voice>
-    <name>Surdo 2 hit click (left hand)</name>
-    <stem>1</stem>
-    <shortcut>D</shortcut>
-    <panelRow>0</panelRow>
-    <panelColumn>3</panelColumn>
     </Drum>
   </museScore>
