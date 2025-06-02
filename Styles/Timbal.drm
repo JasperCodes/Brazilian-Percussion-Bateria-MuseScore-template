@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.50">
+  <Drum pitch="60">
+    <head>normal</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Timbal open</name>
+    <stem>2</stem>
+    <shortcut>A</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>0</panelColumn>
+    </Drum>
+  <Drum pitch="61">
+    <head>cross</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Timbal slap</name>
+    <stem>2</stem>
+    <shortcut>B</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>1</panelColumn>
+    </Drum>
+  <Drum pitch="62">
+    <head>xcircle</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Timbal bass</name>
+    <stem>2</stem>
+    <shortcut>C</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>2</panelColumn>
+    </Drum>
+  <Drum pitch="63">
+    <head>normal</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Timbal open (left hand)</name>
+    <stem>1</stem>
+    <shortcut>D</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>3</panelColumn>
+    </Drum>
+  <Drum pitch="64">
+    <head>cross</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Timbal slap (left hand)</name>
+    <stem>1</stem>
+    <shortcut>E</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>4</panelColumn>
+    </Drum>
+  <Drum pitch="65">
+    <head>xcircle</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Timbal bass (left hand)</name>
+    <stem>1</stem>
+    <shortcut>F</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>5</panelColumn>
+    </Drum>
+  </museScore>
