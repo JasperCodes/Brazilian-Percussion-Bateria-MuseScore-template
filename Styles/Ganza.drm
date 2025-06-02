@@ -4,10 +4,20 @@
     <head>normal</head>
     <line>-1</line>
     <voice>0</voice>
-    <name>Ganza</name>
+    <name>Ganza forward motion</name>
     <stem>2</stem>
     <shortcut>A</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>0</panelColumn>
+    </Drum>
+  <Drum pitch="61">
+    <head>normal</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Ganza backward motion</name>
+    <stem>1</stem>
+    <shortcut>B</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>1</panelColumn>
     </Drum>
   </museScore>
