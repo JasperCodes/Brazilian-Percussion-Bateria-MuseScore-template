@@ -34,7 +34,7 @@
     <head>normal</head>
     <line>1</line>
     <voice>0</voice>
-    <name>Repique Mor hand open</name>
+    <name>Repique Mor left hand open</name>
     <stem>1</stem>
     <shortcut>D</shortcut>
     <panelRow>0</panelRow>
@@ -44,10 +44,20 @@
     <head>cross</head>
     <line>1</line>
     <voice>0</voice>
-    <name>Repique Mor hand slap</name>
+    <name>Repique Mor left hand slap</name>
     <stem>1</stem>
     <shortcut>E</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>4</panelColumn>
+    </Drum>
+  <Drum pitch="65">
+    <head>slash</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Repique Mor finger touch (left hand)</name>
+    <stem>1</stem>
+    <shortcut>F</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>5</panelColumn>
     </Drum>
   </museScore>
