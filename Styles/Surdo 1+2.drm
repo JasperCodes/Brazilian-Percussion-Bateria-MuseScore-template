@@ -11,7 +11,7 @@
     <panelColumn>0</panelColumn>
     </Drum>
   <Drum pitch="61">
-    <head>xcircle</head>
+    <head>cross</head>
     <line>1</line>
     <voice>0</voice>
     <name>Surdo 1 hit muffled</name>
@@ -21,7 +21,7 @@
     <panelColumn>1</panelColumn>
     </Drum>
   <Drum pitch="62">
-    <head>cross</head>
+    <head>slash</head>
     <line>1</line>
     <voice>0</voice>
     <name>Surdo 1 rim (left hand)</name>
@@ -41,19 +41,23 @@
     <panelColumn>3</panelColumn>
     </Drum>
   <Drum pitch="64">
-    <head>xcircle</head>
+    <head>cross</head>
     <line>-1</line>
     <voice>0</voice>
     <name>Surdo 2 hit muffled</name>
     <stem>2</stem>
     <shortcut>E</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>4</panelColumn>
     </Drum>
   <Drum pitch="65">
-    <head>cross</head>
+    <head>slash</head>
     <line>-1</line>
     <voice>0</voice>
     <name>Surdo 2 rim (left hand)</name>
     <stem>2</stem>
     <shortcut>F</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>5</panelColumn>
     </Drum>
   </museScore>

@@ -11,7 +11,7 @@
     <panelColumn>0</panelColumn>
     </Drum>
   <Drum pitch="61">
-    <head>xcircle</head>
+    <head>cross</head>
     <line>-1</line>
     <voice>0</voice>
     <name>Surdo 1 hit dampened</name>
@@ -21,10 +21,10 @@
     <panelColumn>1</panelColumn>
     </Drum>
   <Drum pitch="62">
-    <head>cross</head>
+    <head>slash</head>
     <line>1</line>
     <voice>0</voice>
-    <name>Surdo 1 hit click (left hand)</name>
+    <name>Surdo 1 rim (left hand)</name>
     <stem>1</stem>
     <shortcut>C</shortcut>
     <panelRow>0</panelRow>
