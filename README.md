@@ -39,6 +39,10 @@ Most instruments use a custom SoundFont, which I've carefully composed for this 
 
 ## Note legend
 
-Below a rough note legend of the different types of notes used and how to play them:
+> For a print friendly version use the pdf version: [note legend](/note%20legend.pdf). 
 
-![note legend](/media/note%20legend.png)
+![note legend 1](/media/note%20legend-1.png)
+![note legend 2](/media/note%20legend-2.png)
+![note legend 3](/media/note%20legend-3.png)
+![note legend 4](/media/note%20legend-4.png)
+![note legend 5](/media/note%20legend-5.png)
