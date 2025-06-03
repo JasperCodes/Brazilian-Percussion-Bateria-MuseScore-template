@@ -11,17 +11,11 @@
     <panelColumn>0</panelColumn>
     </Drum>
   <Drum pitch="61">
-    <head>normal</head>
-    <noteheads>
-      <whole>noteheadDiamondHalf</whole>
-      <half>noteheadDiamondHalf</half>
-      <quarter>noteheadDiamondHalf</quarter>
-      <breve>noteheadDiamondHalf</breve>
-      </noteheads>
-    <line>-1</line>
+    <head>triangle-up</head>
+    <line>1</line>
     <voice>0</voice>
     <name>Tamborim upstroke</name>
-    <stem>2</stem>
+    <stem>1</stem>
     <shortcut>B</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>1</panelColumn>
