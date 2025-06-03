@@ -17,7 +17,7 @@ Most instruments use a custom SoundFont, which I've carefully composed for this 
 > ⚠️ There seems to be a bug when using this template: after creating a new project, the program will crash when you first start editing the score. ⚠️</br></br>
 > Until the fix is found the workaround is to simply restart MuseScore and the program will restore your previous session, after which you can continue arranging without any further crashes (don't forget to save your score as well!).
 
-1. Go to [releases](https://github.com/JasperCodes/Brazilian-Percussion-Bateria-MuseScore-template/releases) and download the ` Source code (zip)` or `Source code (tar.gz)` file of the latest version:
+1. Go to the [latest release](https://github.com/JasperCodes/Brazilian-Percussion-Bateria-MuseScore-template/releases/latest) and download the `Source code (zip)` or `Source code (tar.gz)` file of the latest version:
     
     ![alt text](media/image-3.png)
 
