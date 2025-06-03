@@ -54,6 +54,8 @@ Or, if you prefer, you can send any suggestions and/or feedback to [@jaspercodes
 
 ## About me
 
+> [See my scores using this template on MuseScore.](https://musescore.com/user/95409631)
+
 I've been playing samba for 20 years in different groups in the Netherlands, in which I play most instruments and do musical direction as well. 
 
 Currently I'm a member in two dutch percussion groups: [Outra Vez!](https://outravez.nl/) and [Gamberro](https://www.gamberro-samba.com/). Aside from that I play in some project specific groups as well from time to time.
