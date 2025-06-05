@@ -112,4 +112,14 @@
     <panelRow>1</panelRow>
     <panelColumn>1</panelColumn>
     </Drum>
+  <Drum pitch="70">
+    <head>plus</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Repique kettle hit (right hand)</name>
+    <stem>2</stem>
+    <shortcut>K</shortcut>
+    <panelRow>1</panelRow>
+    <panelColumn>2</panelColumn>
+    </Drum>
   </museScore>

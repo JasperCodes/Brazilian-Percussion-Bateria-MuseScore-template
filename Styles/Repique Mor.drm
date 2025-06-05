@@ -60,4 +60,14 @@
     <panelRow>0</panelRow>
     <panelColumn>5</panelColumn>
     </Drum>
+  <Drum pitch="66">
+    <head>plus</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Repique Mor kettle hit (right hand)</name>
+    <stem>2</stem>
+    <shortcut>G</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>6</panelColumn>
+    </Drum>
   </museScore>
