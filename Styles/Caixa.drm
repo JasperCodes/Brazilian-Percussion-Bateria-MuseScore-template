@@ -16,19 +16,19 @@
     <voice>0</voice>
     <name>Caixa rimshot (right hand)</name>
     <stem>2</stem>
-    <shortcut>B</shortcut>
-    <panelRow>0</panelRow>
-    <panelColumn>1</panelColumn>
-    </Drum>
-  <Drum pitch="62">
-    <head>normal</head>
-    <line>2</line>
-    <voice>0</voice>
-    <name>Caixa hit (left hand)</name>
-    <stem>1</stem>
     <shortcut>C</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>2</panelColumn>
+    </Drum>
+  <Drum pitch="62">
+    <head>normal</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Caixa hit (left hand)</name>
+    <stem>1</stem>
+    <shortcut>B</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>1</panelColumn>
     </Drum>
   <Drum pitch="63">
     <head>cross</head>
@@ -39,5 +39,25 @@
     <shortcut>D</shortcut>
     <panelRow>0</panelRow>
     <panelColumn>3</panelColumn>
+    </Drum>
+  <Drum pitch="64">
+    <head>slash</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Caixa rim (right hand)</name>
+    <stem>2</stem>
+    <shortcut>E</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>4</panelColumn>
+    </Drum>
+  <Drum pitch="65">
+    <head>slash</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Caixa rim (left hand)</name>
+    <stem>1</stem>
+    <shortcut>F</shortcut>
+    <panelRow>0</panelRow>
+    <panelColumn>5</panelColumn>
     </Drum>
   </museScore>
